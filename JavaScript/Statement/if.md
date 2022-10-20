@@ -1,7 +1,7 @@
 ---
 title: if
 aliases: [if, if...else, else]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---

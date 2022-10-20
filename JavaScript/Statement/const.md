@@ -1,7 +1,7 @@
 ---
 title: const
 aliases: [const]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---

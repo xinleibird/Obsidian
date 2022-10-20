@@ -1,7 +1,7 @@
 ---
 title: Object
 aliases: [对象类型, 对象, Object]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---

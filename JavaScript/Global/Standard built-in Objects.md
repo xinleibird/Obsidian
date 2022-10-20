@@ -1,7 +1,7 @@
 ---
 title: Standard built-in Objects
 aliases: [标准内置对象, Standard built-in Objects]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---

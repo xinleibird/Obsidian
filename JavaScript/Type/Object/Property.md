@@ -1,7 +1,7 @@
 ---
 title: Property
 aliases: [属性, Property]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---

@@ -1,7 +1,7 @@
 ---
 title: Primitive
 aliases: [原始类型, Primitive]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---

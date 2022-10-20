@@ -1,12 +1,12 @@
 ---
 title: Identifier
 aliases: [标识符, 变量名, 函数名, 属性名, 键, Identifier, Key]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---
 
-> [!abstract] 标识符
+> [!summary]
 >「标识符 [^1]」是代码中用来「识别」和「控制」[[JavaScript/Variable|变量]]、[[JavaScript/Function|函数]]、[[JavaScript/Type/Object/Property|属性]] 的「链」。我们可以简单的总结：「标识符」可以作为 [[JavaScript/Identifier|变量名]]、[[JavaScript/Identifier|函数名]] 和 [[JavaScript/Identifier|属性名]]。
 > <br>
 >「标识符」的 [[JavaScript/Type|类型]] 可以是 [[JavaScript/Type/Primitive/string|string]] 或者 [[JavaScript/Type/Primitive/symbol|symbol]]。

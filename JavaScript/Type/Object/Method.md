@@ -1,12 +1,12 @@
 ---
 title: Method
 aliases: [方法, Method]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---
 
-> [!abstract] 方法
+> [!summary]
 > 当一个 [[JavaScript/Function|函数]] 作为一个 [[JavaScript/Type/Object|对象类型]] 的 [[JavaScript/Type/Object/Property|属性]] 的时候，这个 [[JavaScript/Function|函数]] 就被叫做这个 [[JavaScript/Type/Object|对象类型]] 的「方法 [^1]」。
 
 ## 方法的分类

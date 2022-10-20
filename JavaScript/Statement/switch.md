@@ -1,7 +1,7 @@
 ---
 title: switch
 aliases: [switch, switch...case, case, default]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---

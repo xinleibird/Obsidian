@@ -1,7 +1,7 @@
 ---
 title: return
 aliases: [return]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---

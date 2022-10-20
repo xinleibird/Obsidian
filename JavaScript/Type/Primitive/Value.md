@@ -1,7 +1,7 @@
 ---
 title: Value
 aliases: [原始值, Primitive Value]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---

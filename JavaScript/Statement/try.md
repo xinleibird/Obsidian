@@ -1,7 +1,7 @@
 ---
 title: try
 aliases: [try, try...catch, catch, finally]
-tags: [JavaScript]
+tags: [JS]
 enableToc: true
 lastmod: 2022-10-21
 ---
