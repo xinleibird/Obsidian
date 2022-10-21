@@ -1,5 +1,5 @@
 ---
-title: 🪴 作之不止
+title: 🎭 作之不止
 enableToc: false
 disabled rules: [yaml-title, yaml-timestamp, insert-yaml-attributes]
 ---
